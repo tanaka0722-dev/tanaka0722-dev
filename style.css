@@ -1,0 +1,236 @@
+.contact-info {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 8px;
+}
+.contact-info p {
+  margin: 0;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+}
+a {
+  text-decoration: none !important;
+}
+.card-content {
+  padding: 18px 18px 16px 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.projects-grid .card .btn {
+  width: 140px;
+  min-width: 0;
+  max-width: 100%;
+  display: inline-block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Enhanced card style for projects */
+.projects-grid .card {
+  background: #fff;
+  border-radius: 0;
+  box-shadow: none;
+  transition: none;
+  border: 1.5px solid #e5e7eb;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-height: 340px;
+}
+.projects-grid .card img {
+  margin-bottom: 0;
+  box-shadow: none;
+  border-radius: 0;
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+  max-height: none;
+  padding: 0;
+}
+.projects-grid .card img {
+  transition: box-shadow 0.22s cubic-bezier(.4,2,.6,1), transform 0.22s cubic-bezier(.4,2,.6,1);
+}
+.projects-grid .card strong {
+  font-size: 1.13rem;
+  color: #1d2939;
+  margin: 0;
+  text-align: left;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  display: block;
+}
+.projects-grid .card .desc {
+  color: #475569;
+  font-size: 0.98rem;
+  text-align: left;
+  margin: 0;
+}
+/* Two-column layout for projects section */
+.projects-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+@media (min-width: 700px) {
+  .projects-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+body {
+  margin:0;
+  font-family: Inter, system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  background-color:#fff;
+  background-image: radial-gradient(circle, #e5e7eb 1.5px, transparent 1.5px);
+  background-size:20px 20px;
+  color:#1f2937;
+  line-height:1.6;
+}
+.container {
+  max-width:800px;
+  margin:0 auto;
+  padding:28px;
+  background:transparent;
+}
+header {
+  text-align:center;
+  margin-bottom:30px;
+}
+.avatar {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-weight:700;
+  font-size:28px;
+  color:white;
+  margin:0 auto 14px auto;
+}
+h1 { margin:0; font-size:24px; }
+.sub {
+  color:#6b7280;
+  font-size:14px;
+  margin-top:6px;
+}
+nav {
+  margin-top:20px;
+  display:flex;
+  gap:10px;
+  justify-content:center;
+  flex-wrap:wrap;
+}
+.btn {
+  background:#3b82f6;
+  color:white;
+  border:none;
+  padding:10px 16px;
+  text-decoration:none;
+  font-size:14px;
+  cursor:pointer;
+}
+.card {
+  padding:20px;
+  margin-bottom:20px;
+  background:transparent;
+}
+h2 { margin-top:0; font-size:20px; }
+.skills {
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-top:12px;
+}
+.pill {
+  font-size:13px;
+  padding:6px 10px;
+  background:#e5e7eb;
+  color:#374151;
+}
+.timeline {
+  display:flex;
+  flex-direction:column;
+  gap:14px;
+}
+.item {
+  padding:16px;
+  background:transparent;
+  border: 1.5px solid #e5e7eb;
+  border-radius: 7px;
+  margin-bottom: 10px;
+}
+.when {
+  color:#6b7280;
+  font-size:13px;
+  margin-bottom:4px;
+}
+.role {
+  font-weight:600;
+  margin-bottom:6px;
+}
+.desc {
+  color:#4b5563;
+  font-size:14px;
+}
+.bullets {
+  margin:8px 0 0 0;
+  padding-left:18px;
+  color:#4b5563;
+}
+.contact-info p {
+  margin:8px 0;
+  padding:0 12px;
+  font-size:15px;
+  display:flex;
+  align-items:center;
+}
+.contact-info i {
+  color:#3b82f6;
+  min-width:18px;
+  text-align:center;
+}
+footer {
+  margin-top:30px;
+  text-align:center;
+  color:#6b7280;
+  font-size:14px;
+  padding:10px;
+}
+    .skills-row {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.skill-tag {
+  background: #f8fafc;
+  color: #60a5fa;
+  border-radius: 4px;
+  font-size: 0.97rem;
+  padding: 3px 6px;
+  font-weight: 400;
+  box-shadow: 0 0 0 1px #e0e7ef;
+  transition: background 0.2s;
+  display: inline-block;
+  line-height: 1.7;
+  font-size: 12px;
+}
+.section-heading {
+  font-size: 1.35em;
+  color: #374151;
+  font-weight: 700;
+  margin-top: 38px;
+  margin-bottom: 18px;
+  letter-spacing: 0.01em;
+}
+.card, section {
+  margin-bottom: 38px;
+}
+.card {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
