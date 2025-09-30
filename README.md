@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=hanahub&theme=transparent&border_radius=4)](https://git.io/streak-stats)
+
 # Hi, I'm Austin Lee 👋  
 
 **Senior Software Engineer | GenAI/ML/Data Engineer | System Architect**  
