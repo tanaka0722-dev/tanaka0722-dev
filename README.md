@@ -62,3 +62,5 @@ B.S. in Computer Science (2009–2013)
 ---
 
 ⭐️ Always open to collaborating on **Full-stack, GenAI, ML, and cloud-native projects**!  
+
+![](https://komarev.com/ghpvc/?username=hanahub)
