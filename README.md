@@ -58,18 +58,13 @@ B.S. in Computer Science (2009–2013)
 ## ☕ Support my work
 If my projects, guides, or open-source work helped you, consider buying me a coffee — it keeps the lights on and helps me build more useful tools and content.  
 
-<a href="https://github.com/sponsors/hanahub" target="_blank" style="font-size:0px;">
-  <img src="https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge" alt="Sponsor on GitHub" style="height:46px;"/>
-</a>&nbsp;&nbsp;
+<a href="https://github.com/sponsors/hanahub" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge" alt="Sponsor on GitHub" style="height:46px;width:163px;"/>
+</a><br>
 <a href="https://buymeacoffee.com/auleedev" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="46" alt="Buy Me A Coffee"/>
 </a><br><br>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/auleedev" target="_blank" style="background:#ffdd00;padding:10px 18px;border-radius:8px;color:#111;text-decoration:none;font-weight:bold;font-family:sans-serif;">
-    ☕ Buy Me a Coffee
-  </a>
-</p>
 
     
 ⭐️ Always open to collaborating on **Full-stack, GenAI, ML, and cloud-native projects**!  
