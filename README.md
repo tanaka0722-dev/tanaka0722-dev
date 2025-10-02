@@ -17,8 +17,6 @@
 - **Databases**: PostgreSQL, MongoDB, DynamoDB, Elasticsearch  
 - **DevOps & QA**: Jenkins, GitHub Actions, Jest, Cypress, Selenium, TDD  
 
----
-
 ## 💼 Professional Experience  
 
 ### 🔹 Senior Software Engineer, GenAI Architect – Circle Medical (2024–2025)  
@@ -48,28 +46,20 @@
 - Built payment APIs with PCI compliance and improved personalization features.  
 - Reduced load times by 15% through frontend optimization.  
 
----
-
 ## 🎓 Education  
 **University of Southern California**  
 B.S. in Computer Science (2009–2013)  
 
----
-
 ## 📫 Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/austin-h-lee-960729352/)  💻 [GitHub](https://github.com/hanahub)  📧 auleedev@gmail.com  
-
----
 
 ## ☕ Support my work
 If my projects, guides, or open-source work helped you, consider buying me a coffee — it keeps the lights on and helps me build more useful tools and content.  
 
 <a href="https://buymeacoffee.com/auleedev" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="46" alt="Buy Me A Coffee"/>
-</a>
-
----
-
+</a><br><br>
+    
 ⭐️ Always open to collaborating on **Full-stack, GenAI, ML, and cloud-native projects**!  
 
 ![](https://komarev.com/ghpvc/?username=hanahub)
