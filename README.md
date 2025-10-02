@@ -8,6 +8,16 @@
 
 🚀 12+ years of experience designing scalable systems, building AI-powered solutions, and leading engineering teams. I specialize in **Generative AI, ML, cloud engineering, and full stack development**, with a strong focus on building secure, production-ready platforms across healthcare, fintech, and enterprise domains.  
 
+## ☕ Support my work
+If my projects, guides, or open-source work helped you, consider buying me a coffee — it keeps the lights on and helps me build more useful tools and content.  
+
+<a href="https://github.com/sponsors/hanahub" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge" alt="Sponsor on GitHub" style="height:46px;width:163px;"/>
+</a><br>
+<a href="https://buymeacoffee.com/auleedev" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="46" alt="Buy Me A Coffee"/>
+</a><br>
+
 ## 🔧 Core Skills
 - **Languages & Frameworks**: JavaScript (ES6/7), TypeScript, Python, Java, C#, Rust, PHP, Ruby on Rails, .NET  
 - **AI/ML & GenAI**: OpenAI, Anthropic Claude, LLaMA, BERT, Hugging Face, Transformers, LangChain, RAG, Vector DBs  
@@ -55,18 +65,6 @@ B.S. in Computer Science (2009–2013)
 💻 [GitHub](https://github.com/hanahub)  
 📧 auleedev@gmail.com  
 
-## ☕ Support my work
-If my projects, guides, or open-source work helped you, consider buying me a coffee — it keeps the lights on and helps me build more useful tools and content.  
-
-<a href="https://github.com/sponsors/hanahub" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge" alt="Sponsor on GitHub" style="height:46px;width:163px;"/>
-</a><br>
-<a href="https://buymeacoffee.com/auleedev" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="46" alt="Buy Me A Coffee"/>
-</a><br><br>
-
-
-    
 ⭐️ Always open to collaborating on **Full-stack, GenAI, ML, and cloud-native projects**!  
 
 ![](https://komarev.com/ghpvc/?username=hanahub)
