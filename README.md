@@ -8,8 +8,6 @@
 
 🚀 12+ years of experience designing scalable systems, building AI-powered solutions, and leading engineering teams. I specialize in **Generative AI, ML, cloud engineering, and full stack development**, with a strong focus on building secure, production-ready platforms across healthcare, fintech, and enterprise domains.  
 
----
-
 ## 🔧 Core Skills
 - **Languages & Frameworks**: JavaScript (ES6/7), TypeScript, Python, Java, C#, Rust, PHP, Ruby on Rails, .NET  
 - **AI/ML & GenAI**: OpenAI, Anthropic Claude, LLaMA, BERT, Hugging Face, Transformers, LangChain, RAG, Vector DBs  
