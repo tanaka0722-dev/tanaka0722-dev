@@ -59,9 +59,16 @@ B.S. in Computer Science (2009–2013)
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/austin-h-lee-960729352/)  
-- 💻 [GitHub](https://github.com/hanahub)  
-- 📧 auleedev@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/austin-h-lee-960729352/)  💻 [GitHub](https://github.com/hanahub)  📧 auleedev@gmail.com  
+
+---
+
+## ☕ Support my work
+If my projects, guides, or open-source work helped you, consider buying me a coffee — it keeps the lights on and helps me build more useful tools and content.  
+
+<a href="https://buymeacoffee.com/auleedev" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="46" alt="Buy Me A Coffee"/>
+</a>
 
 ---
 
