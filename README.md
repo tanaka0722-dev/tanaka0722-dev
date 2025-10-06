@@ -2,7 +2,7 @@
 
 <img src="http://ghchart.rshah.org/hanahub?rand" alt="hanahub's Github chart" />
 
-# Hi, I'm Austin Lee 👋  
+# Hi, I'm Austin 👋  
 
 **Senior Software Engineer | GenAI/ML/Data Engineer | System Architect**  
 
