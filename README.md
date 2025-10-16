@@ -7,13 +7,6 @@
 **Senior Software Engineer | GenAI/ML/Data Engineer | System Architect**  
 
 🚀 8+ years of experience in scalable system design, cloud engineering, and data-driven software development. Expert in building **Generative AI, Machine Learning, and AI-powered solutions** using Python, Java, SQL, Spark, TensorFlow/PyTorch, and Kubernetes. Designed and deployed robust infrastructure and applications across enterprise platforms. Proven leader in technical mentorship, cross-functional collaboration, and strategic innovation.
-  
-## ☕ Support my work
-If my projects, guides, or open-source work helped you, consider buying me a coffee — it keeps the lights on and helps me build more useful tools and content.  
-
-<a href="https://github.com/sponsors/tanaka0722-dev" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge" alt="Sponsor on GitHub" style="height:46px;width:163px;"/>
-</a><br>
 
 ## 🔧 Core Skills
 - **Languages & Frameworks:** JavaScript (ES6/7), TypeScript, Python, Java, C#, Rust, PHP, Ruby on Rails, .NET, HTML5, CSS3, SASS/LESS, Go, Scala
