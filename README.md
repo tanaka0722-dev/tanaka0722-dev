@@ -1,70 +1,47 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=hanahub)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tanaka0722-dev)](https://git.io/streak-stats)
 
-<img src="http://ghchart.rshah.org/hanahub?rand" alt="hanahub's Github chart" />
+<img src="http://ghchart.rshah.org/tanaka0722-dev?rand" alt="tanaka0722-dev's Github chart" />
 
-# Hi, I'm Austin 👋  
+# Hi, I'm Robert 👋  
 
 **Senior Software Engineer | GenAI/ML/Data Engineer | System Architect**  
 
-🚀 12+ years of experience designing scalable systems, building AI-powered solutions, and leading engineering teams. I specialize in **Generative AI, ML, cloud engineering, and full stack development**, with a strong focus on building secure, production-ready platforms across healthcare, fintech, and enterprise domains.  
-
+🚀 8+ years of experience in scalable system design, cloud engineering, and data-driven software development. Expert in building **Generative AI, Machine Learning, and AI-powered solutions** using Python, Java, SQL, Spark, TensorFlow/PyTorch, and Kubernetes. Designed and deployed robust infrastructure and applications across enterprise platforms. Proven leader in technical mentorship, cross-functional collaboration, and strategic innovation.
+  
 ## ☕ Support my work
 If my projects, guides, or open-source work helped you, consider buying me a coffee — it keeps the lights on and helps me build more useful tools and content.  
 
-<a href="https://github.com/sponsors/hanahub" target="_blank">
+<a href="https://github.com/sponsors/tanaka0722-dev" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge" alt="Sponsor on GitHub" style="height:46px;width:163px;"/>
-</a><br>
-<a href="https://buymeacoffee.com/auleedev" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="46" alt="Buy Me A Coffee"/>
 </a><br>
 
 ## 🔧 Core Skills
-- **Languages & Frameworks**: JavaScript (ES6/7), TypeScript, Python, Java, C#, Rust, PHP, Ruby on Rails, .NET  
-- **AI/ML & GenAI**: OpenAI, Anthropic Claude, LLaMA, BERT, Hugging Face, Transformers, LangChain, RAG, Vector DBs  
-- **Frontend**: React, Redux, Angular, Vue, Material UI, Bootstrap  
-- **Backend & APIs**: Node.js, Django, REST, GraphQL, Microservices, Serverless Architectures  
-- **Cloud & Infra**: AWS, GCP, Azure, Docker, Kubernetes, Terraform  
-- **Databases**: PostgreSQL, MongoDB, DynamoDB, Elasticsearch  
-- **DevOps & QA**: Jenkins, GitHub Actions, Jest, Cypress, Selenium, TDD  
+- **Languages & Frameworks:** JavaScript (ES6/7), TypeScript, Python, Java, C#, Rust, PHP, Ruby on Rails, .NET, HTML5, CSS3, SASS/LESS, Go, Scala
+- **ML & GenAI:** OpenAI, Anthropic Claude, LLaMA, BERT, Hugging Face, Transformers, LangChain, RAG, vector DBs, PyTorch Lightning, TensorFlow Extended (TFX)
+- **Frontend Technologies:** React, Redux, Hooks, Angular, Vue, Material UI, Bootstrap, TailwindCSS, Next.js, Nuxt.js
+- **Backend & API Development:** Node.js, Django, RESTful APIs, GraphQL, FastAPI, Flask, Microservices, Serverless Architectures
+- **Cloud & Infrastructure:** AWS (Connect, Lambda, API Gateway, DynamoDB, SQS, SNS, CloudFormation), GCP, Azure, Docker, Kubernetes
+- **DevOps & Tooling:** Jenkins, Git/GitHub Actions, NPM
+- **Databases & Search:** PostgreSQL, MongoDB, DynamoDB, Elasticsearch, Redis, Cassandra, Neo4j
+- **Testing & QA:** Jest, Cypress, Selenium, Playwright
+- **E-commerce & Platforms:** Shopify, WooCommerce, Magento, Salesforce  
 
 ## 💼 Professional Experience  
 
-### 🔹 Senior Software Engineer, GenAI Architect – Circle Medical (2024–2025)  
-- Designed and deployed HIPAA-compliant **GenAI voice agents** for patient triage.  
-- Built **RAG pipelines** with LangChain + OpenAI, integrating semantic search with Pinecone/FAISS.  
-- Architected **event-driven microservices** with AWS Lambda & API Gateway for real-time NLP and audio streaming.  
-- Mentored engineers on Python, serverless, and LLM integration.  
-
-### 🔹 Senior Full Stack Engineer, GenAI Lead – PayPal (2022–2023)  
-- Integrated **GenAI (OpenAI, Claude)** into internal support systems for automation & summarization.  
-- Built microservices with **AWS Lambda + DynamoDB**, cutting cloud costs by 15%.  
-- Refactored legacy apps into **TypeScript** and modernized frontends with React/Angular.  
-- Championed **RAG architectures**, improving search & support workflows.  
-
-### 🔹 Full Stack Developer – Synopsys (2020–2021)  
-- Built SaaS tools with **FastAPI, Node.js, and Azure**.  
-- Integrated **GraphQL & Elasticsearch** for faster data exploration.  
-- Developed ML-enhanced document workflows and API security improvements.  
-
-### 🔹 Full Stack Developer – adMixt (2016–2020)  
-- Built **Fraud Fighter** and **Social Auto Poster** tools (Python, Node.js, AWS).  
-- Migrated frontend to **React**, improving performance & scalability.  
-- Designed ML-powered campaign optimization tools.  
-
-### 🔹 Full Stack Developer – ReynSpooner (2013–2016)  
-- Developed an **e-commerce platform** with Node.js, React, and Python/Django.  
-- Built payment APIs with PCI compliance and improved personalization features.  
-- Reduced load times by 15% through frontend optimization.  
+### 🔹 Senior Software Engineer, GenAI Architect – ClassDojo (2024–2025)  
+### 🔹 Senior Full Stack Engineer, GenAI Lead – PayPal (2023–2024)  
+### 🔹 Full Stack Developer – Synopsys (2021–2022)  
+### 🔹 Full Stack Developer – adMixt (2019–2021)  
+### 🔹 Full Stack Developer – ReynSpooner (2017–2019)  
 
 ## 🎓 Education  
 **University of Southern California**  
-B.S. in Computer Science (2009–2013)  
+B.S. in Computer Science (2013–2017)  
 
 ## 📫 Connect with Me  
-💼 [LinkedIn](https://www.linkedin.com/in/austin-h-lee-960729352/)  
-💻 [GitHub](https://github.com/hanahub)  
-📧 auleedev@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/robert-tanaka-42876a38a)  
+💻 [GitHub](https://github.com/tanaka0722-dev)  
+📧 tanaka.business.en@gmail.com  
 
 ⭐️ Always open to collaborating on **Full-stack, GenAI, ML, and cloud-native projects**!  
 
-![](https://komarev.com/ghpvc/?username=hanahub)
